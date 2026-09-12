@@ -1,0 +1,10 @@
+AI ENGINEER ROADMAP
+
+1. Git and GitHub
+2. Scrum
+3. APIs and HTTP
+4. n8n
+5. Airtable and CRMs
+6. AI Agents
+7. Application Development
+8. English
